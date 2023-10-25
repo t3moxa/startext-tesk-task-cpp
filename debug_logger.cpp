@@ -59,7 +59,6 @@ int main(int argc, const char* argv[]) {
 
     // stx: task is to uncomment and revive this line
     stxDebug::File(L"Ä Ö Ü ß.log") << L"Dump of data: " << Data(55, L"stx data: Ä Ö Ü ß");
-    stxDebug::File(L"Ä Ö Ü ß.log") << L"Dump of data: " << Data(55, L"stx data: Ä Ö Ü ß");
 
     return 0;
 }
